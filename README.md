@@ -1,2 +1,2 @@
 # link-checker
-A Python program to check a webpage for any dead links.
+A simple Python program using requests and Beautiful Soup to check a webpage for any dead links.
